@@ -9,7 +9,11 @@ GitHub: westgarrett
 
 EID: gw6467 
 
-Srishtti Talwar 
+
+Srishtti Talwar
+
 email: tsrishtti@gmail.com 
+
 GitHub: stalwar5 
+
 EID: st29988
