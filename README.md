@@ -1,12 +1,15 @@
 # Cardinal-Directions
 CS327E project
 
-Garrett West \n
-email: west.garrett@utexas.edu \n
-GitHub: westgarrett \n
-EID: gw6467 \n
-\n
-Srishtti Talwar \n 
-email: tsrishtti@gmail.com \n
-GitHub: stalwar5 \n
-EID: st29988 \n
+Garrett West 
+
+email: west.garrett@utexas.edu 
+
+GitHub: westgarrett 
+
+EID: gw6467 
+
+Srishtti Talwar 
+email: tsrishtti@gmail.com 
+GitHub: stalwar5 
+EID: st29988
